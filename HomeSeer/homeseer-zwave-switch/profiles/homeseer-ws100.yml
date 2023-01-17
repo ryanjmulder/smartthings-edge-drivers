@@ -1,4 +1,4 @@
-name: homeseer-ws200
+name: homeseer-ws100
 components:
   - id: main
     capabilities:
