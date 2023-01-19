@@ -9,7 +9,7 @@ https://bestow-regional.api.smartthings.com/invite/eGM6WwPwP2AP
 
 After accepting this channel invite and enrolling, any HomeSeer switches you add should automatically be assigned this Edge Driver.
 
-To see if a switch is using this device handler, go to Devices, open the switch and click the "..." button. If "Driver" is in the list, then it's using the new Edge DTH code. The driver name will be "HomeSeer Z-Wave Switch" for this DTH. If "Driver" is not present, it's using the legacy Groovy handler. In this case you should remove the device and re-add it.
+To see if a switch is using this device handler, go to Devices, open the switch and click the "..." button. If "Driver" is in the list, then it's using the new Edge Driver code. The driver name will be "HomeSeer Z-Wave Switch" for this driver. If "Driver" is not present, it's using the legacy Groovy handler. In this case you should remove the device and re-add it.
 
 ## Removing the old handler
 
