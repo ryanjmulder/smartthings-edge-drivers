@@ -13,7 +13,7 @@ To see if a switch is using this device handler, go to Devices, open the switch 
 
 ## Removing the old handler
 
-When removing the device via the SmartThings app, it will prompt you to follow your manufacturer's directions to unpair the old device. For all models the factory reset sequence is:
+When removing the device via the SmartThings app, it will prompt you to follow your manufacturer's directions to exclude the old device. Once the exclusion process is started by the app, single click and release the rocker switch.
 
 1) Turn the light on.
 2) Quickly tap up 3 times
