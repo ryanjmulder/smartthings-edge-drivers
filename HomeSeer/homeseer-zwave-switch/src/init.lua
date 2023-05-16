@@ -29,6 +29,7 @@ local map_key_attribute_to_capability = {
   [CentralScene.key_attributes.KEY_PRESSED_1_TIME] = {
     [0x01] = capabilities.button.button.up(),
     [0x02] = capabilities.button.button.down()
+    
   },
   [CentralScene.key_attributes.KEY_PRESSED_2_TIMES] = {
     [0x01] = capabilities.button.button.up_2x(),
